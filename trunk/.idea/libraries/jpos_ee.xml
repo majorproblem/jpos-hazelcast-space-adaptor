@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jpos-ee">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/jpos-ee.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
